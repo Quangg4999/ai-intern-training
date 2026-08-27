@@ -1,0 +1,30 @@
+PowerShell executed an encoded command from a remote server
+Malware created a Run registry key for persistence
+The trojan added itself to the startup folder
+Windows Defender scanned a downloaded file and found a threat
+Ransomware encrypted user documents and demanded a payment
+Multiple failed login attempts were detected on the admin account
+A suspicious process connected to an unknown IP address
+The attacker modified registry values to disable security tools
+Lateral movement was observed between two internal workstations
+An unsigned executable was launched from the temporary folder
+Chrome opened a normal web page in a new tab
+The browser cached images to make pages load faster
+The machine learning model was trained on a large dataset
+Neural networks require millions of labeled training examples
+The operating system update finished and the laptop restarted
+She downloaded a large video file over the office network
+The developer wrote a Python script to clean the data
+Cloud storage automatically synced the folder across devices
+The router configuration page was opened by the network admin
+The phone battery charged fully in about two hours
+The coffee shop opens early every morning on weekdays
+She walked along the river after dinner
+Rain is expected in the northern provinces tomorrow
+My grandmother cooks the best beef noodle soup
+The football match ended with a late penalty goal
+He practices guitar for an hour before bed
+The train to the mountains leaves at six in the morning
+Fresh vegetables are cheaper at the local market
+They planted flowers in the garden last spring
+The old library closes on Sunday afternoons

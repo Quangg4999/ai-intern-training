@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# File tam de xem output git tren terminal cong ty
+out.txt
