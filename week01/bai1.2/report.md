@@ -99,8 +99,6 @@ Nhóm document: **S** = security (0–9), **T** = tech (10–19), **M** = misc (
 
 **`web browser` cũng thành công.** Hai kết quả đầu (doc 10 về web page, doc 11 về browser) đều đúng chủ đề trình duyệt web, điểm sát nhau (0.2656 so với 0.2570). Người dùng hài lòng với cả hai. Chênh lệch nhỏ đến từ độ dài câu: doc 10 ngắn hơn một từ nên từ trùng `web` bị pha loãng ít hơn `browser` trong doc 11.
 
-*(Chỗ này bạn có thể thêm nhận xét riêng: bạn thấy kết quả tốt vì lý do gì khác không?)*
-
 ### 5.2. Trường hợp search CHƯA TỐT
 
 **`malware persistence` bỏ sót document cùng nghĩa.** Chỉ doc 1 có điểm; bốn dòng còn lại đều bằng 0 và thực chất là "Top 5 giả" — rác được sắp xếp ngẫu nhiên. Điều đáng nói nhất: **doc 2 ("The trojan added itself to the startup folder") cũng nhận 0 điểm.** Câu này mô tả chính xác một hành vi malware persistence, nhưng vì không chung một từ nào với query (`trojan` ≠ `malware`, `startup folder` ≠ `persistence`), hệ thống coi nó không liên quan — ngang với câu về thư viện đóng cửa Chủ nhật.
