@@ -219,3 +219,6 @@ __marimo__/
 
 # File tam de xem output git tren terminal cong ty
 out.txt
+
+# Matplotlib local cache created when generating figures
+week02/bai2.1/.matplotlib/
