@@ -39,7 +39,7 @@ Nếu dùng VS Code, chọn interpreter `.venv\\Scripts\\python.exe`, mở noteb
 .\.venv\Scripts\python.exe -m notebook
 ```
 
-## 4. Chạy bài thật chậm, theo thứ tự
+## 4. Chạy bài, theo thứ tự
 
 ### Bước 1 — Chạy code tái lập experiment
 
