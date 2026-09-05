@@ -3,12 +3,13 @@
 Tiến độ hiện tại:
 
 - [x] Bài 2.1 — Linear Regression từ đầu
-- [ ] Bài 2.2 — Classification và threshold
+- [x] Bài 2.2 — Classification và threshold
 
 ## Tài liệu trong tuần
 
-- [Lý thuyết nền cho Bài 2.1](theory.md)
+- [Lý thuyết nền tuần 2](theory.md)
 - [Bài 2.1: Linear Regression](bai2.1/README.md)
+- [Bài 2.2: Classification và threshold](bai2.2/README.md)
 
 ## Môi trường chung
 
